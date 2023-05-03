@@ -2,32 +2,14 @@
 ![alt text](https://i.pinimg.com/originals/9b/c7/14/9bc71457560448da2fc9d2652c4378c3.gif)
 <br>
 <br>
-    
-# Buttons
-         
-**Links  ➞  Buttons**
 
-<br>
-<br>
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-
-[![Button Shield]][Shield]
-
-</div>
-
-<br>
-<br>
+[![Click Me!]][Shield]
 
 
 <!---------------------------------------------------------------------------->
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
+[Click Me!]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Shield]: https://nowath.github.io/Bio/
 <!--
 **Nowath/Nowath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
