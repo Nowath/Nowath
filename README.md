@@ -12,7 +12,7 @@
 
 [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 
-[![Click Me]][Shield]
+[![Button Shield]][Shield]
 
 </div>
 
