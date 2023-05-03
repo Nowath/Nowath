@@ -1,20 +1,12 @@
 ### Hi there 👋
 ![alt text](https://i.pinimg.com/originals/9b/c7/14/9bc71457560448da2fc9d2652c4378c3.gif)
 
-[![Button Shield]][Shield]
-
-<br>
-<br>
-
+[![👍CLICK ME!]][Shield]
 
 <!---------------------------------------------------------------------------->
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
+[Shield]: https://nowath.github.io/Bio/
 
 
 <!---------------------------------[ Badges ]---------------------------------->
