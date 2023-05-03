@@ -8,7 +8,7 @@
 
 <!---------------------------------------------------------------------------->
 
-[Click Me!]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+[Click Me!]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge/target="_blank"
 [Shield]: https://nowath.github.io/Bio/
 <!--
 **Nowath/Nowath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
