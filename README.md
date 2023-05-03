@@ -1,12 +1,7 @@
 ### Hi there 👋
 ![alt text](https://i.pinimg.com/originals/9b/c7/14/9bc71457560448da2fc9d2652c4378c3.gif)
 
-<br>
-<br>
-
 [![Button Shield]][Shield]
-
-</div>
 
 <br>
 <br>
