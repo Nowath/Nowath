@@ -5,7 +5,6 @@
 
 [![Click Me!]][Shield]
 <br>
-<a href="https://www.youtube.com/watch?v=KFNfB1-sI3g&list=RDMMP1V6cQJpbc4&index=9" style="background-color:pink; width:50px; height:30px; color:black;">Nano</a>
 
 
 <!---------------------------------------------------------------------------->
