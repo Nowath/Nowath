@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://i.pinimg.com/originals/9b/c7/14/9bc71457560448da2fc9d2652c4378c3.gif)
+![alt text](https://media.tenor.com/wVU9ZkJb7MYAAAAd/bu-bu-pixela-fc.gif)
 <br>
 <br>
 
