@@ -28,4 +28,4 @@ I love css
 <a href="http://www.github.com/Nowath"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowath&stroke=6366f1&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
 
-![alt text](https://imgur.com/a/Df9htau)
+![alt text]([https://imgur.com/a/Df9htau](https://imgur.com/a/Df9htau)https://imgur.com/a/Df9htau)
