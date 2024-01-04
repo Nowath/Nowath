@@ -21,8 +21,6 @@ I love css
 
 <p align="left"> <a href="https://www.dev.to/Nowath" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Nowath" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Nowath"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowath&stroke=6366f1&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
